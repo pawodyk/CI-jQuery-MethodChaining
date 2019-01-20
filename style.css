@@ -138,6 +138,16 @@ li{
   border: solid 5px #ccc;
 }
 
+/* code for challenge 1 */
+
+.makeRed {
+	background-color: red;
+}
+
+.makeBorder{
+	border: solid blue 1px;
+}
+
 
 @media screen and (max-width: 700px){
 	ul{
